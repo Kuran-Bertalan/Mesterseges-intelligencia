@@ -1,0 +1,10 @@
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\bin\Debug\Mestint beadandó.exe.config
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\bin\Debug\Mestint beadandó.exe
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\bin\Debug\Mestint beadandó.pdb
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\obj\Debug\Mestint beadandó.csprojAssemblyReference.cache
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\obj\Debug\Mestint_beadandó.Form1.resources
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\obj\Debug\Mestint_beadandó.Properties.Resources.resources
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\obj\Debug\Mestint beadandó.csproj.GenerateResource.cache
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\obj\Debug\Mestint beadandó.csproj.CoreCompileInputs.cache
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\obj\Debug\Mestint beadandó.exe
+F:\C# Progarmok\Mestint beadandó\Mestint beadandó\obj\Debug\Mestint beadandó.pdb
